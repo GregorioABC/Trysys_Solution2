@@ -18,9 +18,9 @@ Nossa missão é transformar sonhos em realidade, proporcionando momentos de ale
 
 3- Qual foi a mesa mais frequentada? Identificar a mesa mais reservada em um restaurante ajuda a otimizar o atendimento, já que pode indicar uma preferência por localização ou tipo de mesa, permitindo alocar clientes de forma mais eficiente.
 
-4-Reservas de mesas: Contabilizar as reservas de mesas permite ao restaurante gerenciar a ocupação, ajustar o número de funcionários e melhorar o atendimento, garantindo que as reservas sejam atendidas de forma organizada.
+4- Reservas de mesas: Contabilizar as reservas de mesas permite ao restaurante gerenciar a ocupação, ajustar o número de funcionários e melhorar o atendimento, garantindo que as reservas sejam atendidas de forma organizada.
 
-5- Quantos pacientes estão na fila? Com o objetivo de melhorar o controle de atendimento.
+5- Qual é a ordem atual da fila de pacientes na emergência? Para melhorar o gerenciamento.
 # Colaboradores :
 * Bruna Cristina de Paula lopes
 * Bruna Roberta Rocha Borges
