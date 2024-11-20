@@ -1,4 +1,4 @@
-# Projeto2-Ed1
+
 # TrySys Solution
 Bem-vindo ao repositório oficial da TriSys Solutions, uma empresa especializada na organização de eventos e festas infantis. Nosso compromisso é criar momentos mágicos e inesquecíveis para as crianças, com segurança e conforto.
 
@@ -13,12 +13,16 @@ Nossa missão é transformar sonhos em realidade, proporcionando momentos de ale
 
 # 5 perguntas
 1- Qual evento tem mais inscritos? Ajuda a dar prioridade e alocar mais recursos ao evento com maior demanda, garantindo que ele receba a atenção necessária.
+
 2- Limitação de participantes: Serve para garantir que não haja excesso de pessoas além do que a estrutura ou recursos podem comportar.
+
 3- Qual foi a mesa mais frequentada? Identificar a mesa mais reservada em um restaurante ajuda a otimizar o atendimento, já que pode indicar uma preferência por localização ou tipo de mesa, permitindo alocar clientes de forma mais eficiente.
+
 4-Reservas de mesas: Contabilizar as reservas de mesas permite ao restaurante gerenciar a ocupação, ajustar o número de funcionários e melhorar o atendimento, garantindo que as reservas sejam atendidas de forma organizada.
+
 5- Quantos pacientes estão na fila? Com o objetivo de melhorar o controle de atendimento.
 # Colaboradores :
-Bruna Cristina de Paula lopes
-Bruna Roberta Rocha Borges
-Gregório de Albuquerque Borba Cavalcanti
-Matheus Enrique Siqueira Lins da Silva
+* Bruna Cristina de Paula lopes
+* Bruna Roberta Rocha Borges
+* Gregório de Albuquerque Borba Cavalcanti
+* Matheus Enrique Siqueira Lins da Silva
