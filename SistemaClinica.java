@@ -79,6 +79,7 @@ class Medico implements Comparable<Medico> {
     }
 }
 
+// arvore binaria para organizar medicos por especialidade
 // Nó da árvore binária para armazenar um médico
 class No {
     Medico medico; // Dados do médico
